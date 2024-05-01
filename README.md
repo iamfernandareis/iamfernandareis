@@ -4,7 +4,7 @@ Sejam bem vindos ao meu perfil, espero que sua passagem aqui seja proveitosa! �
 
 Sou a Fernanda, tenho 23 anos e sou graduanda em Ciência de Dados. Atuamente estou começando a elaborar e publicar meus aprendizados, estou sempre disposta a melhorar. Me mandem sugestões de melhoria, será muito importante!
 
-Meu aprendizado constante:
+Meus aprendizados constantes:
 
 - Python
 - SQL
