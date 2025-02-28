@@ -6,13 +6,10 @@ Atuamente estou começando a elaborar e publicar meus aprendizados, estou sempre
 
 Meus aprendizados constantes:
 
-- Python
-- SQL
-- Power BI
-- Looker
-- Estatística
-- Machine Learning
-- Ciência de Dados
+- Java
+- Angular
+- SpringBoot
+
 
 #### Minhas redes Sociais:
 <a href="https://www.linkedin.com/in/iamfernandareis" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
